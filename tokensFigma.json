@@ -54,7 +54,7 @@
     },
     "Primary": {
       "Main": {
-        "value": "#1741d4",
+        "value": "#1740D4",
         "type": "color",
         "description": "1740D4"
       },
@@ -190,51 +190,6 @@
         "value": "#144e84",
         "type": "color",
         "description": "134E83"
-      }
-    },
-    "btnPrimary": {
-      "default": {
-        "value": "{Primary.Main}",
-        "type": "color",
-        "description": "Default button Color"
-      },
-      "disabled": {
-        "value": "{Primary.Focus}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{Primary.Hover}",
-        "type": "color"
-      },
-      "Selected": {
-        "value": "{Primary.Pressed}",
-        "type": "color"
-      }
-    },
-    "textColor": {
-      "white": {
-        "value": "{Neutral.10}",
-        "type": "color"
-      },
-      "Primary": {
-        "value": "{btnPrimary.default}",
-        "type": "color"
-      },
-      "Danger": {
-        "value": "{Danger.Main}",
-        "type": "color"
-      },
-      "Warning": {
-        "value": "{Warning.Main}",
-        "type": "color"
-      },
-      "Success": {
-        "value": "{Success.Main}",
-        "type": "color"
-      },
-      "Info": {
-        "value": "{Info.Main}",
-        "type": "color"
       }
     },
     "spacing": {
